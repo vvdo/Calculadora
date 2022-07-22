@@ -49,8 +49,8 @@ const limpar = () => calc = calc.limpar()
 <style>
     .calculadora {
         background-color: var(--cor-fundo);
-        height: 220px;
-        width: 150px;
+        height: 440px;
+        width: 300px;
         padding: 10px;
         border-radius: 10px;
         display: flex;
