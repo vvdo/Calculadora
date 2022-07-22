@@ -18,6 +18,8 @@
 <style>
     .botao {
         margin: 0;
+        height: 70px;
+        font-size: 2rem;
         border: 1px solid var(--cor-fundo);
         flex-basis: 25%;
     }
